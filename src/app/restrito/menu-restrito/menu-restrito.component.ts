@@ -9,7 +9,6 @@ import { LoginService } from 'src/app/login.service';
 })
 export class MenuRestritoComponent {
 
-
   constructor(private _router: Router, private _loginService:LoginService){}
 
   logout(){

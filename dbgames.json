@@ -1,31 +1,31 @@
 {
   "produtos": [
     {
-      "id": "1",
+      "id": 1,
       "produto": "God of War",
       "foto": "jogo1.PNG",
       "descricao": "Aventura",
       "preco": "500"
     },
     {
-      "id": "2",
+      "id": 2,
       "produto": "Mortal Kombat",
       "foto": "jogo2.PNG",
       "descricao": "Luta de Ninjas",
       "preco": "390"
     },
     {
-      "id": "3",
+      "id": 3,
       "produto": "Street Figther",
       "foto": "jogo3.PNG",
       "descricao": "Luta de Rua",
       "preco": 300
     },
     {
-      "id": "0",
+      "id": 4,
       "produto": "Fifa",
       "descricao": "futebol",
-      "foto": "jogo3.PNG",
+      "foto": "jogo2.PNG",
       "preco": 789
     }
   ]
